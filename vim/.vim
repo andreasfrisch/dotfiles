@@ -1,1 +1,1 @@
-/home/frisch/.vim
+.vim
